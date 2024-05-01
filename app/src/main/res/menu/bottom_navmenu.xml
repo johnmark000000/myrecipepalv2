@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/home_light"
+        android:id="@+id/home" />
+
+    <item
+        android:title="Recipe"
+        android:icon="@drawable/book_light"
+        android:id="@+id/recipe" />
+
+    <item
+        android:title="Saved"
+        android:icon="@drawable/mark_light"
+        android:id="@+id/saved" />
+
+</menu>
